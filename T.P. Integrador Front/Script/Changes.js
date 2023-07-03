@@ -1,9 +1,9 @@
-///             Dinamic WebApp Emulation           ///
+///             Dynamic WebApp Emulation           ///
 //Ocultar pagina de compras.
-window.onload = function(){
+window.onload = function () {
     var buyTK = document.getElementById("BuyTK");
     buyTK.style.display = "none";
-}
+};
 
 //Cambio a Home
 function changeHome() {
